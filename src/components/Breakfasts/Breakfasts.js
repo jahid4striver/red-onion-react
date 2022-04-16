@@ -13,7 +13,7 @@ const Breakfasts = () => {
 
     return (
         <div className='container'>
-            <div className='row text-center'>
+            <div className='row text-center g-5'>
             {
                 breakfasts.map(breakfast =><Breakfast
                     key={breakfast.id}
