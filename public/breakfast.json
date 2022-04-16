@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet",
+        "img": "https://i.ibb.co/hXcR9Xr/breakfast1.png"
+    },
+    {
+        "id": 2,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet",
+        "img": "https://i.ibb.co/DWJx3vq/breakfast2.png"
+    },
+    {
+        "id": 3,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet",
+        "img": "https://i.ibb.co/z5dcncQ/breakfast3.png"
+    },
+    {
+        "id": 4,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet",
+        "img": "https://i.ibb.co/mTCq07w/breakfast4.png"
+    },
+    {
+        "id": 5,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet",
+        "img": "https://i.ibb.co/zGqzGD5/breakfast5.png"
+    },
+    {
+        "id": 6,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet",
+        "img": "https://i.ibb.co/RTZhfgF/breakfast6.png"
+    }
+]

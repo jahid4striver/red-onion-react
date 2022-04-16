@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet",
+        "img": "https://i.ibb.co/4t6v884/lunch1.png"
+    },
+    {
+        "id": 2,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet",
+        "img": "https://i.ibb.co/Zdn3pJq/lunch2.png"
+    },
+    {
+        "id": 3,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/ZN05YMh/lunch3.png"
+    },
+    {
+        "id": 4,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/ZHzVG63/lunch4.png"
+    },
+    {
+        "id": 5,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/dP2yG4j/lunch5.png"
+    },
+    {
+        "id": 6,
+        "name": "Single Bed Hazarpoti",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Fnxd4KX/lunch6.png"
+    }
+]
